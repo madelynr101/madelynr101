@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Madelyn Weathers
 - 👀 I’m interested in computer science, as broad as it may seem, every branch of computer science interests me. 
-- 🌱 I’m currently learning how to use Javascript to build a personal website. 
