@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Madelyn Weathers
-- 👀 I’m interested in software engineering. Fell free to check out some of my public projects! 
+- 👀 I’m interested in software engineering.
+- 👋 Feel free to check out some of my public projects! 
