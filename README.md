@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Madelyn Weathers
-- 👀 I’m interested in computer science, as broad as it may seem, every branch of computer science interests me. 
+- 👀 I’m interested in software engineering. Fell free to check out some of my public projects! 
